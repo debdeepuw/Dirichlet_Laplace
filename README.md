@@ -1,6 +1,6 @@
 # Dirichlet_Laplace prior for optimal shrinkage
 
-Bhattacharya, Pati, Pillai and Dunson, 2015 published in the Journal of the American Statistical Association, 110 (512): 1479-1489.
+By Bhattacharya, Pati, Pillai and Dunson, published in the Journal of the American Statistical Association (2015), 110 (512): 1479-1489.
 
 ## Objective: estimation of a high-dim sparse normal mean theta0  
 
