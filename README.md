@@ -53,4 +53,4 @@ save_samples=0;                          % Do not save samples in a separate tex
 
 ```
 ## Illustrative plot 
-![debdeeptamu\_Dirichlet_Laplace](_static/DL_out.jpg)
+![debdeeptamu\Dirichlet_Laplace](DL_out.jpg)
