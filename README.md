@@ -52,5 +52,8 @@ save_samples=0;                          % Do not save samples in a separate tex
 [pmeantht,pmedtht,thtout]=DL(y,a,burn,nrun,thin,plt,save_samples); 
 
 ```
-## Illustrative plot 
+## Output
 ![debdeeptamu\Dirichlet_Laplace](DL_out.jpg)
+
+(blue: datapoints, red: posterior median of theta, black lines: 95% credible intervals)
+
